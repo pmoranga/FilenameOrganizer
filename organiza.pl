@@ -1,5 +1,8 @@
 #!/usr/bin/perl
+# Organizer of directories
+# pmoranga at gmail dot com
 #
+# http://github.com/pmoranga/FilenameOrganizer
 
 if (scalar(@ARGV)==0){
     print "usage: $0 [FILES]\n";

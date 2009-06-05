@@ -1,1 +1,10 @@
-teste
+Organiza.pl
+===========
+
+Organizes the content of a directory, replacing spaces, accents, and others caracters.
+By Pmoranga <pmoranga+code@gmail.com>
+
+Changelog
+=========
+Version 0.1 - pmoranga - around 2003 or 2004
+
